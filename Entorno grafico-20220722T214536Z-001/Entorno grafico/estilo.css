@@ -1,0 +1,59 @@
+body {
+    padding: 20px;
+    margin: 20px 60px;
+    font-family: Arial;
+    font-size:18px;
+    background-color: rgb(217, 241, 239);
+}
+.principal1 {
+    width: 95%;
+    height: 900;
+    background-color: white;
+    margin: 20px 20px 20px 20px;
+    border: 4px inset rgb(241, 177, 241);}
+    .encabezado1 {
+        width: 96%;
+        height: 100px;
+        background-color: rgb(253, 161, 161);
+        margin: 20px 20px 20px 20px;
+    border: 4px inset purple;}
+    
+    .encabezado2 {
+        width: 70%;
+        height: 100px;
+        float: right;
+        background-color: salmon;
+        margin: 20px 20px 20px 20px;
+    border: 4px inset purple;}
+    .contenido {
+        width: 96%;
+        height: 600;
+        background-color: white;
+        margin: 20px 20px 20px 20px;
+        border: 4px inset purple;} 
+        .menu {
+            width: 20%;
+        height: 550px;
+        background-color:skyblue;
+        margin: 20px 20px 20px 20px;
+        float: left;
+    border: 4px inset purple;
+text-align: left;} 
+.pagina {
+width: 70%;
+        height: 400px;
+        background-color:rosybrown;
+        margin: 20px 20px 20px 20px;
+        float: right;
+    border: 4px inset purple;
+text-align: center;} 
+        .piepagina {
+            width: 96%;
+            height: 100px;
+            background-color: seagreen;
+            margin: 20px 20px 20px 20px;
+            border-color: slateblue;
+            border: 2px;
+            border: 4px inset purple;
+            font-family: Arial;
+font-size: 10px;}

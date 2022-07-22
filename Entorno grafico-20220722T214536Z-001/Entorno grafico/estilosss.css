@@ -1,0 +1,27 @@
+.error {
+    width: 95%;
+    height: 600;
+    background:url('imagenes/zzz.jpg');
+    margin: 20px 20px 20px 20px;
+    border: 4px inset rgb(241, 177, 241);}
+    h1 {
+        font-size: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif ;}
+        .inicio {
+            width: 95%;
+            height: 600;
+            background-color: rgb(232, 196, 240);
+            margin: 20px 20px 20px 20px;
+            border: 4px inset rgb(241, 177, 241);}
+        .titulos {
+            width: 90%;
+            height: 80px;
+            background-color: rgb(218, 250, 244);
+            margin: 20px 20px 20px 20px;
+        border: 4px inset purple;}
+
+        .tituloss {
+            width: 85%;
+            height: 250px;
+            background-color: salmon;
+            margin: 20px 20px 20px 20px;
+        border: 4px inset purple;}

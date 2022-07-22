@@ -1,0 +1,17 @@
+.sesion {
+    width: 95%;
+    height: 600;
+    background:url('imagenes/colegioo.jpg');
+    margin: 20px 20px 20px 20px;
+    border: 4px inset rgb(241, 177, 241);}
+
+    h1 {
+        font-size: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif ;}
+
+        .error {
+            width: 95%;
+            height: 600;
+            background:url('imagenes/error.png');
+            margin: 20px 20px 20px 20px;
+            border: 4px inset rgb(241, 177, 241);}
+           
